@@ -26,7 +26,7 @@ API_KEY = "[your openai api key]"
 ```
 * Start: `bash run.sh` or
 ```bash
-streamlit run run.py --server.port=8050 --server.address=0.0.0.0 
+streamlit run run.py --server.port=8050 --server.address=121.0.0.1 
 ```
 * Stop `Ctl+C` (at the terminal)
 
